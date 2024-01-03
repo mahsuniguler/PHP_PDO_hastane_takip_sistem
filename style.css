@@ -1,0 +1,9 @@
+body {
+    background-image: url("./Admin_Panel/images/bg_images.jpg");
+    color:white
+}
+
+.opacity0_5
+{
+    opacity: .8;
+}

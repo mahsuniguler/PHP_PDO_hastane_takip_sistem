@@ -1,0 +1,19 @@
+.bgimage {
+    /* min-height: max-content;
+    max-height: max-content; */
+    background-image: url(./images/bg_images.jpg);
+}
+
+body {
+    
+    background-image: url(./images/bg_images.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.opacity0_5
+{
+    opacity: .8;
+    
+}
