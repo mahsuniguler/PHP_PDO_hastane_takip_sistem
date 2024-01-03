@@ -167,3 +167,6 @@ if (isset($_POST['randevu_kaydet'])) {
 </body>
 
 </html>
+
+<?php
+include('footer.php');

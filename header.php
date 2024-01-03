@@ -67,9 +67,3 @@ if ($say == 0) {
             </div>
         </div>
     </nav>
-
-    <script src="./bootstrap_5.3.2/js/bootstrap.bundle.min.js"></script>
-
-</body>
-
-</html>
